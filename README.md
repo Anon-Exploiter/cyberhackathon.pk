@@ -27,5 +27,5 @@ This repository contains the solutions of challenges of Ignite's Cyber Security 
 - [Hybrid](https://github.com/Anon-Exploiter/cyberhackathon.pk#) - https://youtu.be/03K3zwvY-C4
 
 
-#### Third round (Islamabad - [Playlist](https://www.youtube.com/playlist?list=PLy-12Y6oggVs1ZkCWZcm0oj8NwNC3UO5N))
+#### Second round (Islamabad - [Playlist](https://www.youtube.com/playlist?list=PLy-12Y6oggVs1ZkCWZcm0oj8NwNC3UO5N))
 - [LayerTwo](https://github.com/Anon-Exploiter/cyberhackathon.pk#) - https://youtu.be/jadw-TRWA4E
